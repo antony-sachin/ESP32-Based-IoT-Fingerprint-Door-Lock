@@ -15,7 +15,7 @@
 #define BLYNK_TEMPLATE_NAME "Fingerprint Door Lock"
 #define BLYNK_AUTH_TOKEN "W1ZqMfrYEiUwaca_ERfx_2DkF3XuzifEi"
 
-// Your WiFi credentials.
+// Your WiFi credentials/keys.
 // Set password to "" for open networks.
 char ssid[] = "IoT Projects Ideas";
 char pass[] = "@12345678";
